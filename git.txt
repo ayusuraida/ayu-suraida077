@@ -1,0 +1,5 @@
+git status 
+git add .
+git commit -m "bebas"
+git push origin master
+
